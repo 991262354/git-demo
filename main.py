@@ -1,3 +1,5 @@
 print("hello Git")
 print("hello Git again")
 print("这里我创造了一个新的分支")
+print("我在新的分支上修改了代码")
+print("我要测试reset和revert的区别")
