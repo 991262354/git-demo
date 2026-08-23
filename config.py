@@ -1,1 +1,0 @@
-print("用来测试git diff和git diff --staged的区别")
